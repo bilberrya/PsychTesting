@@ -15,7 +15,7 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_7C4925867B7B4B6E90A80BC41AA50D65"
+        "MsmKey" = "8:_1F68BAADA913439188807EA3DA0C07AA"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -102,6 +102,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -134,10 +142,10 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7C4925867B7B4B6E90A80BC41AA50D65"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1F68BAADA913439188807EA3DA0C07AA"
             {
-            "SourcePath" = "8:..\\tracking-—-копия.ico"
-            "TargetName" = "8:tracking-—-копия.ico"
+            "SourcePath" = "8:..\\tracking2.ico"
+            "TargetName" = "8:tracking2.ico"
             "Tag" = "8:"
             "Folder" = "8:_EC1DC72874CF44E7A1D396CFB6013166"
             "Condition" = "8:"
@@ -239,7 +247,7 @@
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"
-        "ARPPRODUCTICON" = "8:_7C4925867B7B4B6E90A80BC41AA50D65"
+        "ARPPRODUCTICON" = "8:_1F68BAADA913439188807EA3DA0C07AA"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -353,7 +361,7 @@
             "Target" = "8:_F553D5E98F8F4B1CA6A9ABBE141BAF55"
             "Folder" = "8:_88E8A210D32B4A7E8D636C54FA411825"
             "WorkingFolder" = "8:_EC1DC72874CF44E7A1D396CFB6013166"
-            "Icon" = "8:_7C4925867B7B4B6E90A80BC41AA50D65"
+            "Icon" = "8:_1F68BAADA913439188807EA3DA0C07AA"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F8E7704EE0CF4EE0970B40DA9896417B"
@@ -367,7 +375,7 @@
             "Target" = "8:_F553D5E98F8F4B1CA6A9ABBE141BAF55"
             "Folder" = "8:_AA8D4D778B234F1DBD221410C908228C"
             "WorkingFolder" = "8:_EC1DC72874CF44E7A1D396CFB6013166"
-            "Icon" = "8:_7C4925867B7B4B6E90A80BC41AA50D65"
+            "Icon" = "8:_1F68BAADA913439188807EA3DA0C07AA"
             "Feature" = "8:"
             }
         }
