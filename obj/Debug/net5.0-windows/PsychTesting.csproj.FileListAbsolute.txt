@@ -30,3 +30,4 @@ C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting\obj\Debug\net5.0
 C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting\obj\Debug\net5.0-windows\PsychTesting.TestSamoef.resources
 C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting\obj\Debug\net5.0-windows\PsychTesting.TestMotiv.resources
 C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting\obj\Debug\net5.0-windows\PsychTesting.Msg.resources
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting\obj\Debug\net5.0-windows\PsychTesting.csproj.AssemblyReference.cache

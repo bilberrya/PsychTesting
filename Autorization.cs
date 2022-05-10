@@ -25,7 +25,7 @@ namespace PsychTesting
             Application.Exit();
         }
 
-        private void btnAutorize_Click(object sender, EventArgs e)
+        public void btnAutorize_Click(object sender, EventArgs e)
         {
             string login = textBox1.Text;
             string password = textBox2.Text;
