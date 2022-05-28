@@ -8,14 +8,25 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
+using System.Data.SqlClient;
 
 namespace PsychTesting
 {
     public partial class MainWindow : Form
     {
+        string ConnStr = @"Data Source=desktop-jfut083;Initial Catalog=PsychTesting;Integrated Security=True";
         public MainWindow()
         {
             InitializeComponent();
+            SqlCommand cmd;
+            SqlConnection cn = new SqlConnection(ConnStr);
+            cn.Open();
+            cmd = cn.CreateCommand();
+            cmd.CommandText = "select post from Workers where id_w = " + Program.id;
+            Program.post = Convert.ToString(cmd.ExecuteScalar());
+            cn.Close();
+            if (Program.post.Equals("Сотрудник"))
+                resbtn.Visible = false;
         }
 
         private void btnStop_Click(object sender, EventArgs e)
@@ -136,6 +147,26 @@ namespace PsychTesting
         private void MainWindow_Load(object sender, EventArgs e)
         {
             btnCab_Click(sender, e);
+        }
+
+        private void resbtn_Click(object sender, EventArgs e)
+        {
+            pnlNav.Height = resbtn.Height;
+            pnlNav.Top = resbtn.Top;
+            pnlNav.Left = resbtn.Left;
+            resbtn.BackColor = Color.FromArgb(46, 51, 73);
+            label2.Text = "Результаты";
+
+            this.pnlFormLoader.Controls.Clear();
+            Results res = new Results() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
+            res.FormBorderStyle = FormBorderStyle.None;
+            this.pnlFormLoader.Controls.Add(res);
+            res.Show();
+        }
+
+        private void resbtn_Leave(object sender, EventArgs e)
+        {
+            resbtn.BackColor = Color.FromArgb(29, 30, 51);
         }
     }
 }

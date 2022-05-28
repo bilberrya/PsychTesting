@@ -29,6 +29,7 @@ namespace PsychTesting
 
         public static int id = 0;
         public static string fio = null;
+        public static string post = null;
     }
 }
 

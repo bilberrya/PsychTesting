@@ -16,6 +16,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Update="Results.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="TestMotiv.cs">
       <SubType>Form</SubType>
     </Compile>

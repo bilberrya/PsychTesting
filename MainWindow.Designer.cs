@@ -32,6 +32,7 @@ namespace PsychTesting
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainWindow));
             this.panel1 = new System.Windows.Forms.Panel();
             this.pnlNav = new System.Windows.Forms.Panel();
+            this.resbtn = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
             this.btnMotiv = new System.Windows.Forms.Button();
             this.btnSamef = new System.Windows.Forms.Button();
@@ -53,6 +54,7 @@ namespace PsychTesting
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(30)))), ((int)(((byte)(51)))));
             this.panel1.Controls.Add(this.pnlNav);
+            this.panel1.Controls.Add(this.resbtn);
             this.panel1.Controls.Add(this.btnExit);
             this.panel1.Controls.Add(this.btnMotiv);
             this.panel1.Controls.Add(this.btnSamef);
@@ -73,6 +75,25 @@ namespace PsychTesting
             this.pnlNav.Name = "pnlNav";
             this.pnlNav.Size = new System.Drawing.Size(6, 100);
             this.pnlNav.TabIndex = 8;
+            // 
+            // resbtn
+            // 
+            this.resbtn.BackColor = System.Drawing.Color.Transparent;
+            this.resbtn.FlatAppearance.BorderSize = 0;
+            this.resbtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(27)))), ((int)(((byte)(56)))), ((int)(((byte)(80)))));
+            this.resbtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(14)))), ((int)(((byte)(41)))), ((int)(((byte)(75)))));
+            this.resbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.resbtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.resbtn.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.resbtn.Location = new System.Drawing.Point(3, 558);
+            this.resbtn.Name = "resbtn";
+            this.resbtn.Size = new System.Drawing.Size(247, 68);
+            this.resbtn.TabIndex = 9;
+            this.resbtn.Text = "Результаты";
+            this.resbtn.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.resbtn.UseVisualStyleBackColor = false;
+            this.resbtn.Click += new System.EventHandler(this.resbtn_Click);
+            this.resbtn.Leave += new System.EventHandler(this.resbtn_Leave);
             // 
             // btnExit
             // 
@@ -99,7 +120,7 @@ namespace PsychTesting
             this.btnMotiv.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMotiv.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnMotiv.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.btnMotiv.Location = new System.Drawing.Point(0, 484);
+            this.btnMotiv.Location = new System.Drawing.Point(3, 484);
             this.btnMotiv.Name = "btnMotiv";
             this.btnMotiv.Size = new System.Drawing.Size(247, 68);
             this.btnMotiv.TabIndex = 5;
@@ -289,6 +310,7 @@ namespace PsychTesting
         public System.Windows.Forms.Button btnCab;
         public System.Windows.Forms.Panel pnlNav;
         public System.Windows.Forms.Label label2;
+        public System.Windows.Forms.Button resbtn;
     }
 }
 
