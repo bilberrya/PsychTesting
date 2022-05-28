@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U/jucvCYvhoHCM6+6NQzpYHhoWirLDP9CHKkq0NHdu2ePafdzQpFZVyaIV25X6Z2Qh8KUaFKem4XjAUejpujWA==",
+  "dgSpecHash": "fkAtLUBn4O0BZJk6jbhmYSJJokQAQ/zi4BEWRcgC+Oy66rZK65PdFODKLfYWpT7671wrMjEhPp3zLH5L1GFVig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anastasia\\Desktop\\4 курс\\Диплом\\PsychTesting\\PsychTesting.csproj",
+  "projectFilePath": "C:\\Users\\Anastasia\\Desktop\\4 курс\\Диплом\\PsychTesting — копия\\PsychTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anastasia\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Anastasia\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
