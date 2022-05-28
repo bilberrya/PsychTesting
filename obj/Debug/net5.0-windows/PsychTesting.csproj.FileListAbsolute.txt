@@ -31,3 +31,37 @@ C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting\obj\Debug\net5.0
 C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting\obj\Debug\net5.0-windows\PsychTesting.TestMotiv.resources
 C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting\obj\Debug\net5.0-windows\PsychTesting.Msg.resources
 C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting\obj\Debug\net5.0-windows\PsychTesting.Results.resources
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\bin\Debug\net5.0-windows\PsychTesting.exe
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\bin\Debug\net5.0-windows\PsychTesting.deps.json
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\bin\Debug\net5.0-windows\PsychTesting.runtimeconfig.json
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\bin\Debug\net5.0-windows\PsychTesting.runtimeconfig.dev.json
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\bin\Debug\net5.0-windows\PsychTesting.dll
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\bin\Debug\net5.0-windows\ref\PsychTesting.dll
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\bin\Debug\net5.0-windows\PsychTesting.pdb
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.csproj.AssemblyReference.cache
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.Autorization.resources
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.MainWindow.resources
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.Msg.resources
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.PersonalAccount.resources
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.Results.resources
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.TestGolland.resources
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.TestMotiv.resources
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.TestProfBurnout.resources
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.TestSamoef.resources
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.csproj.GenerateResource.cache
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.AssemblyInfoInputs.cache
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.AssemblyInfo.cs
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.csproj.CopyComplete
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.dll
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\ref\PsychTesting.dll
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.pdb
+C:\Users\Anastasia\Desktop\4 курс\Диплом\PsychTesting — копия\obj\Debug\net5.0-windows\PsychTesting.genruntimeconfig.cache
